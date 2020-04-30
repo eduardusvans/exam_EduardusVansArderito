@@ -17,7 +17,7 @@ public class AndroidDriverInstance {
         caps.setCapability("platformName", "Android");
         caps.setCapability("deviceName","device");
         caps.setCapability("udid","emulator-5554");
-        caps.setCapability("app","/Users/arderitoe/Desktop/exam_EduardusVansArderito/APP/TodoApp.apk");
+        caps.setCapability("app","/Users/arderitoe/IdeaProjects/exam_EduardusVansArderito/APP/TodoApp.apk");
         caps.setCapability("automationName","UIAutomator2");
 
         try {
